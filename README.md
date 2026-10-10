@@ -1,4 +1,4 @@
-# Summary AI Agent
+# AI Summary Agent
 
 An interactive research assistant built with LangChain and the Google Gemini API. It can answer research questions, use web and Wikipedia search tools, return a structured response, and append results to a text file.
 
